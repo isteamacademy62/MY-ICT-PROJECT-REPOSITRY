@@ -1,2 +1,2 @@
-# MY-ICT-PROJECT-REPOSITRY
+# MY-ICT-project repositry
 MY FIRST ICT PROJECT 
