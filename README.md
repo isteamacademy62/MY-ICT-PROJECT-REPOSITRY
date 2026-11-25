@@ -1,5 +1,5 @@
 # MY-ICT-project
-This is my first GitHub repositry.
+I am learning how to use branches in GitHub to manage my projects.
 IVAN KWODWO KWAKYE/ZAYNE OSEI
 GRADE 5
 MY ICT PROJECT
